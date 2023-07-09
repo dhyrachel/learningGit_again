@@ -8,3 +8,4 @@ my stupid boss made me working to 2 am
 add something from dev branch
 颐和园很热 & 也有很多人
 test the conflict of the dev2
+git is a distributed version control systrem
